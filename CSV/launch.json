@@ -1,0 +1,8 @@
+{
+  "type": "java",
+  "name": "Run JavaFX",
+  "request": "launch",
+  "mainClass": "PatientApp",
+  "vmArgs": "--module-path \"C:/Users/ASUS/Desktop/JavaPractical/javafx-sdk-26/lib\" --add-modules javafx.controls,javafx.fxml --enable-native-access=javafx.graphics",
+  "classPaths": ["C:/Users/ASUS/Desktop/JavaPractical/commons-math3-3.6.1.jar", "${workspaceFolder}"]
+}
